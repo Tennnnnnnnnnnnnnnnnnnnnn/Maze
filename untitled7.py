@@ -1,7 +1,7 @@
 import turtle
 import time
 
-# Set up screen
+# Set up screen 
 wn = turtle.Screen()
 wn.bgcolor("pink")
 wn.title("Maze Solver")
